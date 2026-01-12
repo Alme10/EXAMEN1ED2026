@@ -4,7 +4,7 @@ public class TablaDel12
     {
         for(int i = 0; i <= 10; i++)
         {
-            System.out.println("En el siguiente fichero estará la tabla del 13");
+            System.out.println("Desarrollado para la aplicación Maths");
         }
     }
 }
